@@ -48,11 +48,7 @@ Scrapers for places and organizers in Los Angeles.
 
 ### Scapers
 
-| Name | URL | Scraping Status | Scraper Manager | Notes |
-|------|-----|-----------------|-----------------|-------|
-| [LA Filmforum](https://zeitgeists.org/region/los-angeles/organizer/la-filmforum) | [Website](https://www.lafilmforum.org/) | | | |
-
-
+will upload then link them here
 
 
 
